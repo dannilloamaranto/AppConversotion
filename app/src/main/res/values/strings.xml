@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="valor">Valor</string>
+    <string name="euro">Euro:</string>
+    <string name="Dolar">Dólar</string>
+    <string name="total">Total</string>
+    <string name="cotar">Cotar</string>
+    <string name="digite_um_valor">Digite um Valor</string>
+    <string name="kidding">Kidding</string>
+    <string name="digite_seu_valor_em_reais">Digite seu Valor em Reais</string>
+</resources>
